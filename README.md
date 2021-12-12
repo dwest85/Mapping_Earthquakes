@@ -7,9 +7,9 @@
 * The finished map is located in the Earthquake_Challenge folder.
 
 # Display
-![Display]()
+![Display](https://github.com/dwest85/Mapping_Earthquakes/blob/main/markdown_pics/display.PNG)
 
 # Style Code
 * Two functions were created to organize the magnitude data based on radius and color.
-![Style]()
+![Style](https://github.com/dwest85/Mapping_Earthquakes/blob/main/markdown_pics/style.PNG)
 
